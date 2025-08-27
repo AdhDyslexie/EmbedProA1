@@ -1,0 +1,2 @@
+- Software needed to view & open these files is called LOG ([Linux & MacOS ver](https://github.com/dzo/chipmunk64))
+    - Used to simulate digital logic
